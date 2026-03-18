@@ -117,7 +117,7 @@ Full Stack Developer building scalable apps using React, Next.js & Laravel 🚀
   <a href="https://github.com/Zeyadhatem391">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://zeyadhatemsabry@gmail.com">
+  <a href="mailto:zeyadhatemsabry@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://wa.me/+201112079745">
