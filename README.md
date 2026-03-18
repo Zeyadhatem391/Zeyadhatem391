@@ -75,8 +75,8 @@ Full Stack Developer building scalable apps using React, Next.js & Laravel 🚀
 
 <p align="center">
 
-<a href="https://github.com/Zeyadhatem391/movie-app">
-  <img src="https://opengraph.githubassets.com/1/Zeyadhatem391/movie-app" width="400" />
+<a href="https://github.com/Zeyadhatem391/Popflix_Next">
+  <img src="https://opengraph.githubassets.com/1/Zeyadhatem391/Popflix_Next" width="400" />
 </a>
 
 <a href="https://github.com/Zeyadhatem391/grocery-app">
